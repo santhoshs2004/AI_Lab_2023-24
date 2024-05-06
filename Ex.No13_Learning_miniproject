@@ -1,4 +1,3 @@
-
 # Ex.No: 13 Learning – Use Supervised Learning  
 ### DATE:                                                                     
 ### REGISTER NUMBER : 212222220039
@@ -105,7 +104,6 @@ app.launch(share=True)
 ![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/89af30fd-ecbc-4798-8324-723cd7304139)
 
 ![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/fd6636fe-9fd1-4ee8-901b-ca38c271f1f4)
-
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
